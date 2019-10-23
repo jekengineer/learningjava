@@ -1,0 +1,3 @@
+This is my first tweet (this is a test of a bot please ignore).
+Hello World!!! I was made in Java (this is a test of a bot please ignore).
+I used Eclipse! (this is a test of a bot please ignore).
